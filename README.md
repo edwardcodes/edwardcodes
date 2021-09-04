@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola, I'm Edward! 👋
 
-<!--
-**edwardcodes/edwardcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Deep Learning
+- 🌱 I’m currently learning PyTorch
+- 👯 I’m looking to collaborate on projects and kaggling related to Machine Learning
+- 🤔 I’m looking for help with reading deep learning papers
+- 💬 Ask me about Machine Learning
+- 📫 How to reach me: [Twitter](https://twitter.com/_edwardcodes)
+[Instagram](https://instagram.com/edwardcodes)
+[LinkedIn](https://linkedin.com/in/edwardcodes)
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<img src = "https://github-readme-stats.vercel.app/api?username=edwardcodes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
