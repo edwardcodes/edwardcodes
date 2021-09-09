@@ -1,13 +1,17 @@
 ## Hola, 👋 I'm [Edward][Website] but you can call me Edy 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=edwardcodes.edwardcodes) [![Github](https://img.shields.io/github/followers/edwardcodes?label=Followers&logo=Github)](https://github.com/edwardcodes)
 
-- 🔭 I’m currently working on Deep Learning Projects
-- 🌱 I’m currently learning PyTorch
-- 👯 I’m looking to collaborate on projects and kaggling related to Machine Learning
-- 🤔 I’m looking for help with reading deep learning papers
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 🔭 I’m currently working on **Deep Learning Projects**
+- 🌱 I’m currently learning **PyTorch**
+- 👯 I’m looking to collaborate on **Open - Source data science projects**
+- 🤔 I’m looking for help with doing **Deep Learning Research**
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: [Twitter] | [Instagram] | [LinkedIn] | [Website]
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: ***He/His*** or ***Team Player***
+
+
 
 ## :trophy: Github Stats:
 
