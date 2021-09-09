@@ -12,9 +12,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=edwardcodes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=_edwardcodes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Edward's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_edwardcodes)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=_edwardcodes&langs_count=5&theme=tokyonight)]()
 
 
