@@ -12,10 +12,6 @@
 - 😄 Pronouns: ***He/His*** or ***Team Player***
 
 
-## :newspaper: Daily Dev Card:
-
-<a href="https://app.daily.dev/edwardcodes"><img src="https://api.daily.dev/devcards/db84b1d620694339ba70371c0def5b33.png?r=xv2" width="300" alt="Edward's Dev Card"/></a>
-
 ## :trophy: Github Stats:
 
 <!--
