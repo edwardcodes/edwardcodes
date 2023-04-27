@@ -3,8 +3,8 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on **Deep Learning Projects**
-- 🌱 I’m currently learning **Rust for MLOps**
+- 🔭 I’m currently working on **Creating & Integrating AI with existing products **
+- 🌱 I’m currently learning **Rust & AWS**
 - 👯 I’m looking to collaborate on **Open - Source data science projects**
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: [Twitter] | [Instagram] | [LinkedIn] | [Website]
