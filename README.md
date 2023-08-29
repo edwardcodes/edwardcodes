@@ -3,9 +3,9 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on **Creating & Integrating AI with existing products**
-- 🌱 I’m currently learning **Rust & AWS**
-- 👯 I’m looking to collaborate on **Open - Source data science projects**
+- 🔭 I’m currently working on **Data Engineering Project**
+- 🌱 I’m currently learning **Big Data and Azure**
+- 👯 I’m looking to collaborate on **Open - Source data related projects**
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: [Twitter] | [Instagram] | [LinkedIn] | [Website]
 - 😄 Pronouns: ***He/His*** or ***Team Player***
@@ -27,6 +27,6 @@
 </div>
 
 [Website]: https://edwardcodes.github.io
-[Twitter]: https://twitter.com/_edwardcodes
-[Instagram]: https://instagram.com/edwardcodes
-[LinkedIn]: https://linkedin.com/in/edwardcodes
+[Twitter]: https://twitter.com/_edwardpraveen
+[Instagram]: https://instagram.com/_edwardpraveen
+[LinkedIn]: https://linkedin.com/in/edwardpraveen
